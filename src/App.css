@@ -1,0 +1,16 @@
+.main-header {
+  border-bottom: 1px solid black;
+  margin-bottom: 1rem;
+}
+.nav-link {
+  background-color: rgb(210, 206, 206);
+  text-transform: uppercase;
+  padding: 0.5em 1em;
+  display: inline-block;
+}
+.nav-link:hover {
+  background-color: rgb(179, 179, 179);
+}
+.nav-link.active {
+  font-weight: bold;
+}
